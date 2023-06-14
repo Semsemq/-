@@ -16,4 +16,72 @@ class ViewController: UIViewController {
 
 
 }
+ func ViewDidAppear (_animated: Bool)  {
+            
+            print("viewWillappeare")
+            
+            
+            func ViewDidappear (_animated: Bool)  {
+                
+                
+                print("viewDidappeare")
+                
+                func  viewDidDisappear (_animated: Bool)  {
+                    
+                    print("viewDidDisappeare")
+                }
+                
+                
+                func textfield1(_animated: Bool)  {
+                }
+                
+                
+                func textfield(_animated: Any) {
+                }
+                
+                func button(_animated: Bool) {
+                }
+            }
+            
+            
+            
+            
+            struct
+            
+            ContentView_Previews {
+                
+                
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
 
